@@ -21,7 +21,7 @@ tab1, tab2, tab3 = st.tabs(["📧 Send Real Phishing Email", "🌐 Fake Login Pa
 # ===================== TAB 1: SEND REAL EMAIL =====================
 with tab1:
     st.subheader("📧 Send Real Phishing Email (Educational Demo)")
-    st.warning("for testing. Never use for malicious purposes!")
+    st.warning("This is for testing purposes only. Never use for malicious purposes!")
 
     col1, col2 = st.columns(2)
     with col1:
